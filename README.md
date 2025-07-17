@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SilvioAburto
-- 👀 I’m interested in automation, software. 
-- 🌱 I’m currently learning mobile development.
+- 👀 I’m interested in automation, lab automation, software. 
 - 📫 How to reach me [My Website](https://silvioaburto.com/)
